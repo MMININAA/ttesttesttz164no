@@ -1,0 +1,76 @@
+Uri: https://app.pictarize.com/logo.png
+File Name: C:\Downloaded Web Sites\app.pictarize.com\logo.png
+Content Type: image/png
+
+Uri: https://app.pictarize.com/manifest.json
+File Name: C:\Downloaded Web Sites\app.pictarize.com\manifest.json
+Content Type: application/json
+
+Uri: https://app.pictarize.com/p?projectId=64e78614e6ebfb00108ee0a5&buildId=64e78668e6ebfb00108ee0a6
+File Name: C:\Downloaded Web Sites\app.pictarize.com\p.html
+Content Type: text/html
+
+Uri: https://app.pictarize.com/static/css/2.4e827997.chunk.css
+File Name: C:\Downloaded Web Sites\app.pictarize.com\static\css\2.4e827997.chunk.css
+Content Type: text/css
+
+Uri: https://app.pictarize.com/static/css/main.c429ea7e.chunk.css
+File Name: C:\Downloaded Web Sites\app.pictarize.com\static\css\main.c429ea7e.chunk.css
+Content Type: text/css
+
+Uri: https://app.pictarize.com/static/js/2.48ba60a3.chunk.js
+File Name: C:\Downloaded Web Sites\app.pictarize.com\static\js\2.48ba60a3.chunk.js
+Content Type: text/javascript
+
+Uri: https://app.pictarize.com/static/js/main.76e2a302.chunk.js
+File Name: C:\Downloaded Web Sites\app.pictarize.com\static\js\main.76e2a302.chunk.js
+Content Type: text/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap
+File Name: C:\Downloaded Web Sites\app.pictarize.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/opensans/v35/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjaVc.ttf
+File Name: C:\Downloaded Web Sites\app.pictarize.com\s\opensans\v35\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v35/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkaVc.ttf
+File Name: C:\Downloaded Web Sites\app.pictarize.com\s\opensans\v35\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v35/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkaVc.ttf
+File Name: C:\Downloaded Web Sites\app.pictarize.com\s\opensans\v35\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v35/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjaVc.ttf
+File Name: C:\Downloaded Web Sites\app.pictarize.com\s\opensans\v35\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v35/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjaVc.ttf
+File Name: C:\Downloaded Web Sites\app.pictarize.com\s\opensans\v35\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v35/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf
+File Name: C:\Downloaded Web Sites\app.pictarize.com\s\opensans\v35\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v35/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1y4n.ttf
+File Name: C:\Downloaded Web Sites\app.pictarize.com\s\opensans\v35\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v35/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1y4n.ttf
+File Name: C:\Downloaded Web Sites\app.pictarize.com\s\opensans\v35\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v35/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0C4n.ttf
+File Name: C:\Downloaded Web Sites\app.pictarize.com\s\opensans\v35\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v35/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+File Name: C:\Downloaded Web Sites\app.pictarize.com\s\opensans\v35\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-6PMRWRY63G
+File Name: C:\Downloaded Web Sites\app.pictarize.com\gtag\js
+Content Type: application/javascript
+

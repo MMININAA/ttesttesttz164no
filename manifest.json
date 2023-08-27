@@ -1,0 +1,15 @@
+{
+  "short_name": "Pictarize",
+  "name": "Pictarize",
+  "icons": [
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "86x86"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#FFFFFF",
+  "background_color": "#6699b2"
+}
